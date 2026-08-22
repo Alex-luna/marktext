@@ -15,3 +15,13 @@ thumbs.db
 .idea
 .env
 .eslintcache
+
+# disk-cleanup snapshot
+.next/
+.venv/
+venv/
+.venv-bpm/
+.env.local
+.env.*.local
+*.sqlite
+.solo-pglite/
